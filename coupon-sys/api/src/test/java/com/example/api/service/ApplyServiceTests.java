@@ -39,7 +39,6 @@ class ApplyServiceTests {
             long userId = i;
             executorService.submit(() -> {
                 try{
-
                     applyService.apply(userId);
                 }finally {
                     latch.countDown();
