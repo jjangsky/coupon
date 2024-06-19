@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2c6015-e184-4bcf-9565-c41e01796ca8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/coupon-sys/consumer/src/main/java/com/example/consumer/config/KafkaConsumerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon-sys/consumer/src/main/java/com/example/consumer/consumer/CouponCreatedConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon-sys/consumer/src/main/java/com/example/consumer/domain/Coupon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coupon-sys/consumer/src/main/java/com/example/consumer/repository/CouponRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coupon-sys/api/src/main/java/com/example/api/repository/AppliedUserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coupon-sys/api/src/test/java/com/example/api/service/ApplyServiceTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/coupon-sys/api/src/test/java/com/example/api/service/ApplyServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coupon-sys/api/src/main/java/com/example/api/service/ApplyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/coupon-sys/api/src/main/java/com/example/api/service/ApplyService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +189,7 @@
       <updated>1718628564015</updated>
       <workItem from="1718628565023" duration="4008000" />
       <workItem from="1718719518603" duration="3460000" />
-      <workItem from="1718804635542" duration="1730000" />
+      <workItem from="1718804635542" duration="3895000" />
     </task>
     <servers />
   </component>
