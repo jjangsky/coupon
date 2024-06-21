@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f2c6015-e184-4bcf-9565-c41e01796ca8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/coupon-sys/api/src/main/java/com/example/api/repository/AppliedUserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coupon-sys/api/src/main/java/com/example/api/service/ApplyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/coupon-sys/api/src/main/java/com/example/api/service/ApplyService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "C:/studyWorkSpace/java-study/demo/java-study",
+    "last_opened_file_path": "C:/studyWorkSpace/tdd-shop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,7 +85,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "spring.configuration.checksum": "6c86bd962733f40c41906dd26a5b526d",
+    "spring.configuration.checksum": "064b1c999032ce222a19ac56fc91551f",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -190,6 +188,7 @@
       <workItem from="1718628565023" duration="4008000" />
       <workItem from="1718719518603" duration="3460000" />
       <workItem from="1718804635542" duration="3895000" />
+      <workItem from="1718888466222" duration="622000" />
     </task>
     <servers />
   </component>
